@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya-524
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning Python and Bash
+- 🌱 I’m currently learning Python, R and Bash
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
