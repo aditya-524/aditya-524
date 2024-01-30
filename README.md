@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aditya-524
-<!-- - 👀 I’m interested in ... -->
+- 👋 Hi, I’m Aditya Pandey
+- 👀 I’m interested in  Machine learning projects
 - 🌱 I’m currently learning Python, R, Shell Scripting and Julia
-- 💞️ I’m looking to collaborate on Machine learning projects
+<!--- 💞️ I’m looking to collaborate on -->
 <!-- - 📫 How to reach me ... -->
 
 <!---
